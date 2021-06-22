@@ -2,5 +2,6 @@ Jacob Reinikainen Lindström - Rapport Inlämning 2, JavaScript
 
 Jag började med att jobba på funktionen som returnerar ett HTML-element. Här var det ganska rakt på sak då jag kände att jag visste hur jag skulle skapa funktionaliteten. Jag hade aldrig tilldelat fler än ett klassnamn till ett HTML-element tidigare, men efter lite testande så fick jag till det. När jag testade sidan efter att jag skapat båda funktionerna fick jag felmeddelande i konsolen och såg att jag gjort lite slarvfel med hur jag använde appendChild (hade skrivit li.appendChild = article; istället för li.appendChild(article);).
 
-findResult-funktionen var klart den svårare att få till, då jag inte gjort särskilt många liknande saker tidigare. Jag 
+findResult-funktionen var klart den svårare att få till, då jag inte gjort särskilt många liknande saker tidigare. För att känna att jag verkligen skulle behärska en array med objekt så skapade jag ett eget litet projekt med en kortare array, så att jag kunde leka och testa olika idéer tills att jag kände att jag kom fram till en lösning. 
+Min slutgiltiga lösning är säkert inte den absolut enklaste och kodeffektiva, men för mig följer den en logisk och tydlig algoritm.
 
